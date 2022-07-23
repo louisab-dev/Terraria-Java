@@ -2,7 +2,7 @@
 
 ## About The Project
 
-[![Game Screenshot][product-screenshot]](https://imgur.com/a/x2xMasS)
+![Game preview](https://i.imgur.com/5ecNmAp.png)
 
 This is the repository of a school project aiming at creating the game Terraria which is a sandbox game in two dimensions. We could describe it as Minecraft in two dimensions. The game has a lot of features but we are not going to discuss them here. I'm not going to keep working on this project but feel free to make any contribution !
 
